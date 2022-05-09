@@ -1,21 +1,20 @@
 ABC Company
 
-Hidden Leaf Village 99
-Street Tokyo, Japan
-95080
+Ye Address Hai
 
-+9212548662
+Ye city Name Hai
+
+P CODE : 95080
+Phone:+9212548662
 tokyo@email.co.uk
 
 BILLED TO
 
-Uchiha Itachi
-akatsuki uzumaki
-tokyo, shinghai, Japan
-
-85046
-
-03254124578
+Yaha naam aega
+Area dalo yaha
+Address dalo idher
+P.code: 85046
+phone :03254124578
 
 Invoice Description
 INVOICE NUMBER: VOuniterninarne
