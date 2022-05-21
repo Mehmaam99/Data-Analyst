@@ -1,0 +1,13 @@
+Party P.O #
+National Tax No.
+
+sno
+item
+weight
+rate
+excluding
+gst
+gst amt
+cartage
+discount
+including value
